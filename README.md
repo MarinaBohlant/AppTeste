@@ -1,4 +1,4 @@
-# AppTeste Matheus Garcia e Marina Sarjahni
+# AppTeste Matheus Garcia e Marina Sarjani
 aplicativo mobile
 
 Tema: Mudanças climáticas (usando o anime one piece como temática para o design)
